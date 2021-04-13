@@ -215,3 +215,6 @@ Notes:
 ## Contact
 
 If you have any question, want to join in discussions, or need extra help, you are welcome to join our Twint focused channel at [OSINT team](https://osint.team)
+
+
+https://www.youtube.com/watch?v=jzLJjbZVQ9s
